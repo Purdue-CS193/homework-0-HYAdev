@@ -1,4 +1,4 @@
-# Haiyan Xuan's CS193 Homework
+# Haiyan Xuan's First CS193 Homework
 
 ### Favorite Things About CS193
 - Student-led course
